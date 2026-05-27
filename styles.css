@@ -422,7 +422,7 @@ p { margin: 0 0 1em; }
   padding: 0;
   margin: 0;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   gap: 1.5rem;
 }
 
@@ -445,7 +445,7 @@ p { margin: 0 0 1em; }
 .team-card__photo {
   position: relative;
   margin: 0;
-  aspect-ratio: 4 / 5;
+  aspect-ratio: 1 / 1;
   overflow: hidden;
   background: var(--bg-alt);
 }
