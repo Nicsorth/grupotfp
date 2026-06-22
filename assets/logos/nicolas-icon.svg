@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="100 185 580 150" width="116" height="30" role="img" aria-label="Logo ícono — Ps. Nicolás Labbé A.">
+  <title>Ps. Nicolás Labbé A. | PhD — ícono</title>
+
+  <line x1="120" y1="320" x2="660" y2="320" stroke="#D85A30" stroke-width="1.2" opacity="0.15"></line>
+  <line x1="120" y1="268" x2="120" y2="320" stroke="#D85A30" stroke-width="1.5" opacity="0.20"></line>
+  <line x1="240" y1="225" x2="240" y2="320" stroke="#D85A30" stroke-width="1.5" opacity="0.28"></line>
+  <line x1="390" y1="295" x2="390" y2="320" stroke="#993C1D" stroke-width="1.5" opacity="0.35" stroke-dasharray="4,3"></line>
+  <line x1="510" y1="248" x2="510" y2="320" stroke="#D85A30" stroke-width="1.5" opacity="0.45"></line>
+  <line x1="650" y1="217" x2="650" y2="320" stroke="#993C1D" stroke-width="1.5" opacity="0.65"></line>
+
+  <path d="M120,260 C160,240 210,215 255,218 C295,220 320,248 355,278 C385,304 405,315 435,300 C470,282 520,245 580,220 C610,208 635,205 660,203" fill="none" stroke="#D85A30" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+
+  <circle cx="120" cy="260" r="7" fill="none" stroke="#D85A30" stroke-width="3"></circle>
+  <circle cx="240" cy="216" r="8" fill="#D85A30" fill-opacity="0.25" stroke="#D85A30" stroke-width="3"></circle>
+  <circle cx="390" cy="308" r="10" fill="#ffffff" stroke="#993C1D" stroke-width="3.5" stroke-dasharray="3,2"></circle>
+  <circle cx="510" cy="238" r="9" fill="#D85A30" fill-opacity="0.55" stroke="#D85A30" stroke-width="3"></circle>
+  <circle cx="650" cy="204" r="12" fill="#993C1D"></circle>
+</svg>
